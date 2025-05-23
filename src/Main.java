@@ -7,7 +7,7 @@ public class Main {
         try (Scanner scanner = new Scanner(System.in)) {
 
             while (true) {
-                System.out.println("\n== Car Rental Management System ===");
+                System.out.println("\n Car Rental Management System ");
                 System.out.println("1. View Vehicles:");
                 System.out.println("9999. Exit");
                 System.out.print("Enter choice: ");
